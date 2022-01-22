@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Neonderthaw&family=Oswald:wght@200;300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+  body{
+      
+font-family: 'Oswald', sans-serif;
+}
+
+
+*{
+    margin: 0;
+    padding: 0px;
+     background-color: pink;
+}
+
+
+
+img {
+    width: 150px;
+    height: 150px;
+    float: left;
+    border: none;
+    border-radius: 100px;
+}
+
+.continer {
+    width: 1100px;
+    height: 100%;
+    margin: auto;
+    overflow: hidden;
+   
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.imghinfo ul {
+    list-style: none;
+    float: right;
+    align-items: center;
+    margin: 35px;
+}
+
+.imghinfo li a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.imghinfo li a:hover {
+    color: #de141d;
+    transition: 0.5s;
+}
+
+.rtm {
+    width: 322px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 43px;
+    color: blue;
+}
+
+.div-clea {
+    clear: both;
+}
+
+hr {
+    border: 2px solid black;
+}
+h2 {}
+
+.prfn {
+    width: 300px;
+    font-size: 20px;
+    text-transform: capitalize;
+    float: left;
+    margin-top: 20px;
+}
+
+.personalinfo ul {
+    margin-top: 20px;
+    width: 404px;
+    padding-left: 170px;
+    font-size: 20px;
+    float: left;
+    list-style: none;
+}
+.prfn h2 {
+    color: blue;
+}
+
+.work { 
+    width: 300px;
+    text-transform: capitalize;
+    font-size: 20px;
+    color: blue;
+    float: left;
+}
+
+.floatcomer {
+    border: 1px solid red;
+    float: right;
+}
+
+.floatinfomore {
+    width: 628px;
+    padding: 0px 10px;
+}
+
+.lecturer1 h3 {
+    margin-top: 17px;
+}
+
+
+.floatinfomore h4 {font-weight: 500;}
+
+.floatinfomore p {
+    text-align: justify;
+}
+
+.floatinfomore p {
+    margin-bottom: 15px;
+}
+
+
